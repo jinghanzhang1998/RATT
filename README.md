@@ -9,7 +9,7 @@ Large Language Models (LLMs) gain substantial reasoning and decision-making capa
 
 ## Prerequisites
 
-* Python packages can be installed with `pip install -r requirements.txt`
+* If you need to run `example_creative_writing.py`, the Python packages can be installed via `pip install -r requirements.txt`. If you need to run `example_creative_writing_offline.ipynb`, please install the dependencies directly using the commands provided in the .ipynb file.
 
 ### Please obtain the following part or all API keys according to your needs.
 
